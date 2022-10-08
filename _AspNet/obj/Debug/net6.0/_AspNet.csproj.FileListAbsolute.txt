@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\bin\Debug\net6.0\_AspNet.exe
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\bin\Debug\net6.0\_AspNet.deps.json
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\bin\Debug\net6.0\_AspNet.runtimeconfig.json
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\bin\Debug\net6.0\_AspNet.dll
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\bin\Debug\net6.0\_AspNet.pdb
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.dll
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\refint\_AspNet.dll
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.pdb
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\_AspNet.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\_AspNet\_AspNet\obj\Debug\net6.0\ref\_AspNet.dll
